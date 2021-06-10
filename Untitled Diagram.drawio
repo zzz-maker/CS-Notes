@@ -1,1 +1,156 @@
-<mxfile host="app.diagrams.net" modified="2021-06-09T07:05:04.546Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36 Edg/90.0.818.62" etag="QxU93AFwt6UInn2hLfTb" version="14.6.6" type="github"><diagram name="Page-1" id="3e8102d1-ef87-2e61-34e1-82d9a586fe2e">5ZlZb+M2EMc/jR9r6Lb8uHGOFmiBRVO0jwJN0RKxFClQlI9++g4tSpZMJnAWduHN+iER/8NDnPl5eHgWrqr9i0R1+YfICZsFXr6fhY+zIPAjL4V/Wjl0SrL0O6GQNDeVTsIr/ZcY0TNqS3PSTCoqIZii9VTEgnOC1URDUordtNpGsOmoNSqIJbxixGz1H5qr0qi+550MvxJalGboNDaGNcLfCilabsbjgpPOUqG+G1O1KVEudiMpfJqFKymE6p6q/Yow7dbeY1275zeswytLwtUlDRZekiSLOMFptF4vQ/yL6WGLWGvcYF5UHXq/QA8QAig87EqqyGuNsLbsgALQSlUxKPnweHQB0SN5UBqmqgtYVBT3BiXFt8HFuuFGcPWMKso0OX8TmSOOjGww8aOh4UowIUE6ehkqUcZ6aRaEnpcsj33anumnSqQi+5FkPPVCREWUPEAVYw1SE7XDgEJX3p3wiHs6yhEZg4gMksXQ9yk28GDCc2GoAitUT1wRWUsKwQkSBoM/5HQLj4V+fGgbyknT9CYYb2R1NDDfaHftO2RCh+4iJjbHj2nsYuXYqZmc4yv1YXAibwoODGWBEyQOcAbxquDEFjgrUVUtp+pgBXYSoRw15RC7UVA/5HSG1oR9FQ1VVHCwYaKpBYP2J4X0+/tZhbVQSlSjCl8YLbRBibpjqNYvW+0LvQ7NxWZDMZm3DZFN99fCbkzahbnmDJXn4+c6aSWMp3REkU1HlLiyyg3YSGw22gbcDxGyM8QrkVvw9YU54gdHCWqzrBshg5Vfh/uusUoWyRQrP7wMq/gGWC0srP4kTS24c6V6AbfWPwdU0nghK45zvm+izhNV4NlExamDqOgGRKV2ooKZScRcOxlwVUEqPfNLNz8/SWprumlCduucl1WDqzJju3co/cUEytCR5mL/f4JyaUH5SAuqnFA+ki1hon6Pys9Emc52gme1JBWcT5qs0+4crsX5xj0N7DU0csCV3gCu/rQ5ousvgksOUy8ODsBWOkTgf6TIm4e+z0MYbiWcX+YKXo3/IKkrOt/4L226XKfCOLkFXfbNz298IxFEu8WqleTzwIIFx6RWk3x056jEy/AMFfuMGLoS0S0287598/TCxNq5yn1FUnHI/aW+tf3kSWjgqgBvkIzqQTi593NiFPkTtHzX9cPSRqvXrotWaKH1xLdUCq73SU7Cvuz07N+52LwaXudhrxqMyLyAwWHnrKOvKG9F22T4gNl7PN4MBzeu348/Mv0MLa6Rys5WPT+Mbd5cp8hbXHf59l3oM+WIY+dyN4l+A65p5nBogm38nLRSTAl6K/ZOsr4zD1nheed2fUL6fWWgJJwe4fx0aRMRO4jwP0wEFE8/rh1tox8vw6f/AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-06-10T09:12:58.497Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36 Edg/91.0.864.41" etag="UoE1YKw-EV9jJjohLcCk" version="14.7.7" type="github">
+  <diagram name="Page-1" id="3e8102d1-ef87-2e61-34e1-82d9a586fe2e">
+    <mxGraphModel dx="920" dy="551" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Q0zfpDOD5F8L9mNNasFW-33" value="分公司" style="swimlane;rounded=1;dashed=1;startSize=37;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1610" y="173" width="310" height="627" as="geometry" />
+        </mxCell>
+        <mxCell id="Q0zfpDOD5F8L9mNNasFW-16" value="人员" style="swimlane;horizontal=0;rounded=1;startSize=30;swimlaneLine=1;shadow=1;sketch=0;glass=0;" vertex="1" parent="Q0zfpDOD5F8L9mNNasFW-33">
+          <mxGeometry x="40" y="219" width="230" height="189" as="geometry" />
+        </mxCell>
+        <mxCell id="Q0zfpDOD5F8L9mNNasFW-17" value="入职员工基础信息" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;sketch=0;fillColor=#FFFF00;" vertex="1" parent="Q0zfpDOD5F8L9mNNasFW-16">
+          <mxGeometry x="50" y="7" width="160" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="Q0zfpDOD5F8L9mNNasFW-18" value="分公司内人员调整信息维护" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;sketch=0;fillColor=#FFFF00;" vertex="1" parent="Q0zfpDOD5F8L9mNNasFW-16">
+          <mxGeometry x="50" y="52" width="160" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="Q0zfpDOD5F8L9mNNasFW-21" value="公司级人员调岗信息维护" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;sketch=0;" vertex="1" parent="Q0zfpDOD5F8L9mNNasFW-33">
+          <mxGeometry x="90" y="316" width="160" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="Q0zfpDOD5F8L9mNNasFW-20" value="员工离职信息维护" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;sketch=0;fillColor=#FFFF00;" vertex="1" parent="Q0zfpDOD5F8L9mNNasFW-33">
+          <mxGeometry x="90" y="362" width="160" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="70666756c84bb93c-1" value="" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;comic=0;strokeWidth=1;fontFamily=Verdana;fontSize=14;strokeColor=none;fillColor=#0069D1;" parent="1" vertex="1">
+          <mxGeometry x="280" y="110" width="500" height="500" as="geometry" />
+        </mxCell>
+        <mxCell id="70666756c84bb93c-2" value="Enterprise&lt;div&gt;Business&lt;/div&gt;&lt;div&gt;Model&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;comic=0;strokeWidth=1;fontFamily=Verdana;fontSize=22;strokeColor=none;fillColor=#ffffff;fontColor=#0069D1;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="400" y="230" width="260" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="70666756c84bb93c-5" value="Community" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#ffffff;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.office.users.users;rounded=0;comic=0;fontFamily=Verdana;fontSize=14;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="350" y="440" width="46" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="70666756c84bb93c-6" value="Customer&lt;div&gt;Service&lt;/div&gt;" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#ffffff;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.office.users.call_center_agent;rounded=0;comic=0;fontFamily=Verdana;fontSize=14;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="676" y="413" width="46" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="70666756c84bb93c-7" value="Response&lt;div&gt;Group&lt;/div&gt;" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#ffffff;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.office.users.response_group;rounded=0;comic=0;fontFamily=Verdana;fontSize=14;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="350" y="203" width="58" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="70666756c84bb93c-8" value="Central&lt;div&gt;Management&lt;/div&gt;&lt;div&gt;Service&lt;/div&gt;" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#ffffff;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.office.services.central_management_service;rounded=0;comic=0;fontFamily=Verdana;fontSize=14;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="317" y="313" width="51" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="70666756c84bb93c-9" value="Digital&lt;div&gt;Development&lt;/div&gt;" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#ffffff;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.office.servers.on_premises_server;rounded=0;comic=0;fontFamily=Verdana;fontSize=14;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="700" y="282" width="44" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="70666756c84bb93c-10" value="Technology&lt;div&gt;Certificates&lt;/div&gt;" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#ffffff;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.office.security.token_service;rounded=0;comic=0;fontFamily=Verdana;fontSize=14;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="450" y="492" width="60" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="70666756c84bb93c-11" value="Infrastructure" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#ffffff;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.office.concepts.on_premises;rounded=0;comic=0;fontFamily=Verdana;fontSize=14;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="593" y="490" width="34" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="70666756c84bb93c-12" value="Global&lt;div&gt;Partnerships&lt;/div&gt;" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#ffffff;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.office.concepts.globe_internet;rounded=0;comic=0;fontFamily=Verdana;fontSize=14;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="441" y="140" width="49" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="70666756c84bb93c-13" value="Environmental&lt;div&gt;Awareness&lt;/div&gt;" style="shadow=0;dashed=0;html=1;strokeColor=none;shape=mxgraph.mscae.general.continuous_cycle;fillColor=#ffffff;rounded=0;comic=0;fontFamily=Verdana;fontSize=14;fontColor=#FFFFFF;verticalAlign=top;labelPosition=center;verticalLabelPosition=bottom;align=center;" parent="1" vertex="1">
+          <mxGeometry x="550" y="135" width="48" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="70666756c84bb93c-15" value="Finance" style="shape=mxgraph.signs.travel.euro;html=1;fillColor=#ffffff;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;rounded=0;shadow=0;dashed=0;comic=0;fontFamily=Verdana;fontSize=14;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="637" y="189" width="45" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="Q0zfpDOD5F8L9mNNasFW-1" value="总部" style="swimlane;rounded=1;dashed=1;startSize=37;fontSize=14;swimlaneLine=1;" vertex="1" parent="1">
+          <mxGeometry x="1260" y="173" width="310" height="627" as="geometry" />
+        </mxCell>
+        <mxCell id="Q0zfpDOD5F8L9mNNasFW-2" value="组织架构" style="swimlane;horizontal=0;rounded=1;startSize=30;swimlaneLine=1;shadow=1;sketch=0;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="1300" y="225" width="230" height="135" as="geometry" />
+        </mxCell>
+        <mxCell id="Q0zfpDOD5F8L9mNNasFW-3" value="部门组织结构" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;sketch=0;fillColor=#3333FF;fontColor=#FFFFFF;" vertex="1" parent="Q0zfpDOD5F8L9mNNasFW-2">
+          <mxGeometry x="50" y="5" width="160" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="Q0zfpDOD5F8L9mNNasFW-4" value="部门名称" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;sketch=0;fillColor=#3333FF;fontColor=#FFFFFF;" vertex="1" parent="Q0zfpDOD5F8L9mNNasFW-2">
+          <mxGeometry x="50" y="50" width="160" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="Q0zfpDOD5F8L9mNNasFW-5" value="部门主管" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;sketch=0;fillColor=#3333FF;fontColor=#FFFFFF;" vertex="1" parent="Q0zfpDOD5F8L9mNNasFW-2">
+          <mxGeometry x="50" y="95" width="160" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="Q0zfpDOD5F8L9mNNasFW-6" value="人员" style="swimlane;horizontal=0;rounded=1;startSize=30;swimlaneLine=1;shadow=1;sketch=0;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="1300" y="373" width="230" height="229" as="geometry" />
+        </mxCell>
+        <mxCell id="Q0zfpDOD5F8L9mNNasFW-7" value="入职员工基础信息" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;sketch=0;fillColor=#3333FF;fontColor=#FFFFFF;" vertex="1" parent="Q0zfpDOD5F8L9mNNasFW-6">
+          <mxGeometry x="50" y="7" width="160" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="Q0zfpDOD5F8L9mNNasFW-8" value="部门间人员调岗信息维护" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;sketch=0;fillColor=#3333FF;fontColor=#FFFFFF;" vertex="1" parent="Q0zfpDOD5F8L9mNNasFW-6">
+          <mxGeometry x="50" y="52" width="160" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="Q0zfpDOD5F8L9mNNasFW-9" value="部门内人员调整信息维护" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;sketch=0;fillColor=#33FFFF;" vertex="1" parent="Q0zfpDOD5F8L9mNNasFW-6">
+          <mxGeometry x="50" y="97" width="160" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="Q0zfpDOD5F8L9mNNasFW-10" value="员工离职信息维护" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;sketch=0;fillColor=#3333FF;fontColor=#FFFFFF;" vertex="1" parent="Q0zfpDOD5F8L9mNNasFW-6">
+          <mxGeometry x="50" y="187" width="160" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="Q0zfpDOD5F8L9mNNasFW-11" value="公司级人员调岗信息维护" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;sketch=0;" vertex="1" parent="Q0zfpDOD5F8L9mNNasFW-6">
+          <mxGeometry x="50" y="143" width="160" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="Q0zfpDOD5F8L9mNNasFW-12" value="组织架构" style="swimlane;horizontal=0;rounded=1;startSize=30;swimlaneLine=1;shadow=1;sketch=0;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="1650" y="225" width="230" height="135" as="geometry">
+            <mxRectangle x="1650" y="225" width="30" height="70" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Q0zfpDOD5F8L9mNNasFW-13" value="分公司组织结构" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;sketch=0;fillColor=#3333FF;fontColor=#FFFFFF;" vertex="1" parent="Q0zfpDOD5F8L9mNNasFW-12">
+          <mxGeometry x="50" y="5" width="160" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="Q0zfpDOD5F8L9mNNasFW-14" value="部门名称" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;sketch=0;fillColor=#3333FF;fontColor=#FFFFFF;" vertex="1" parent="Q0zfpDOD5F8L9mNNasFW-12">
+          <mxGeometry x="50" y="50" width="160" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="Q0zfpDOD5F8L9mNNasFW-15" value="部门主管" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;sketch=0;" vertex="1" parent="Q0zfpDOD5F8L9mNNasFW-12">
+          <mxGeometry x="50" y="95" width="160" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="Q0zfpDOD5F8L9mNNasFW-22" value="岗位角色" style="swimlane;horizontal=0;rounded=1;shadow=1;glass=0;sketch=0;startSize=30;" vertex="1" parent="1">
+          <mxGeometry x="1300" y="620" width="580" height="156" as="geometry" />
+        </mxCell>
+        <mxCell id="Q0zfpDOD5F8L9mNNasFW-23" value="岗位" style="swimlane;rounded=1;shadow=1;glass=0;sketch=0;" vertex="1" parent="Q0zfpDOD5F8L9mNNasFW-22">
+          <mxGeometry x="50" y="10" width="510" height="79" as="geometry" />
+        </mxCell>
+        <mxCell id="Q0zfpDOD5F8L9mNNasFW-24" value="中心总经理" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;sketch=0;fillColor=#3333FF;fontColor=#FFFFFF;" vertex="1" parent="Q0zfpDOD5F8L9mNNasFW-23">
+          <mxGeometry x="20" y="33" width="130" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="Q0zfpDOD5F8L9mNNasFW-27" value="中心总经理" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;sketch=0;fillColor=#3333FF;fontColor=#FFFFFF;" vertex="1" parent="Q0zfpDOD5F8L9mNNasFW-23">
+          <mxGeometry x="360" y="32" width="130" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="Q0zfpDOD5F8L9mNNasFW-31" value="角色" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;sketch=0;fillColor=#66FF66;" vertex="1" parent="Q0zfpDOD5F8L9mNNasFW-22">
+          <mxGeometry x="225" y="105" width="160" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="Q0zfpDOD5F8L9mNNasFW-26" value="中心总经理" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;sketch=0;fillColor=#3333FF;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="1540" y="663" width="130" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="Q0zfpDOD5F8L9mNNasFW-34" value="负责人" style="swimlane;rounded=0;shadow=0;glass=0;sketch=0;fontSize=14;strokeWidth=0;" vertex="1" parent="1">
+          <mxGeometry x="1930" y="620" width="200" height="178" as="geometry" />
+        </mxCell>
+        <mxCell id="Q0zfpDOD5F8L9mNNasFW-35" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=0;fontSize=14;fillColor=#3333FF;strokeWidth=0;" vertex="1" parent="Q0zfpDOD5F8L9mNNasFW-34">
+          <mxGeometry x="20" y="37" width="70" height="23" as="geometry" />
+        </mxCell>
+        <mxCell id="Q0zfpDOD5F8L9mNNasFW-36" value="总部人事部" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=0;fontSize=10;strokeWidth=0;" vertex="1" parent="Q0zfpDOD5F8L9mNNasFW-34">
+          <mxGeometry x="90" y="37" width="100" height="23" as="geometry" />
+        </mxCell>
+        <mxCell id="Q0zfpDOD5F8L9mNNasFW-37" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=0;fontSize=14;strokeWidth=0;fillColor=#FFFF00;" vertex="1" parent="Q0zfpDOD5F8L9mNNasFW-34">
+          <mxGeometry x="20" y="70" width="70" height="23" as="geometry" />
+        </mxCell>
+        <mxCell id="Q0zfpDOD5F8L9mNNasFW-38" value="分公司人事专管员" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=0;fontSize=10;strokeWidth=0;" vertex="1" parent="Q0zfpDOD5F8L9mNNasFW-34">
+          <mxGeometry x="90" y="70" width="100" height="23" as="geometry" />
+        </mxCell>
+        <mxCell id="Q0zfpDOD5F8L9mNNasFW-39" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=0;fontSize=14;strokeWidth=0;fillColor=#33FFFF;" vertex="1" parent="Q0zfpDOD5F8L9mNNasFW-34">
+          <mxGeometry x="20" y="104" width="70" height="23" as="geometry" />
+        </mxCell>
+        <mxCell id="Q0zfpDOD5F8L9mNNasFW-40" value="总部部门专管员" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=0;fontSize=10;strokeWidth=0;" vertex="1" parent="Q0zfpDOD5F8L9mNNasFW-34">
+          <mxGeometry x="90" y="104" width="100" height="23" as="geometry" />
+        </mxCell>
+        <mxCell id="Q0zfpDOD5F8L9mNNasFW-41" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=0;fontSize=14;strokeWidth=0;fillColor=#66FF66;" vertex="1" parent="Q0zfpDOD5F8L9mNNasFW-34">
+          <mxGeometry x="20" y="140" width="70" height="23" as="geometry" />
+        </mxCell>
+        <mxCell id="Q0zfpDOD5F8L9mNNasFW-42" value="业务部门" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=0;fontSize=10;strokeWidth=0;" vertex="1" parent="Q0zfpDOD5F8L9mNNasFW-34">
+          <mxGeometry x="90" y="140" width="100" height="23" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
