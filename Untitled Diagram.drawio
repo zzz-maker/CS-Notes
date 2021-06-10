@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-06-10T09:12:58.497Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36 Edg/91.0.864.41" etag="UoE1YKw-EV9jJjohLcCk" version="14.7.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-10T09:16:07.996Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36 Edg/91.0.864.41" etag="p5UEEpNUIKhRjP1nk-tF" version="14.7.7" type="github">
   <diagram name="Page-1" id="3e8102d1-ef87-2e61-34e1-82d9a586fe2e">
-    <mxGraphModel dx="920" dy="551" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1303" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -149,6 +149,9 @@
         </mxCell>
         <mxCell id="Q0zfpDOD5F8L9mNNasFW-42" value="业务部门" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=0;fontSize=10;strokeWidth=0;" vertex="1" parent="Q0zfpDOD5F8L9mNNasFW-34">
           <mxGeometry x="90" y="140" width="100" height="23" as="geometry" />
+        </mxCell>
+        <mxCell id="Q0zfpDOD5F8L9mNNasFW-43" value="上海三菱电梯人事管理" style="swimlane;rounded=0;shadow=0;glass=0;sketch=0;fontSize=20;strokeWidth=1;fillColor=#FFFFFF;startSize=40;" vertex="1" parent="1">
+          <mxGeometry x="1230" y="110" width="920" height="710" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
